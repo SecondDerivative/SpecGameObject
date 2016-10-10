@@ -22,8 +22,8 @@ CountSpawnerDrop
 
 N M (count block)
 
-True ...
+0 0 0 ...
 
 ...
 
-...True (or false
+...0 0 (or 0)

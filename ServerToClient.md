@@ -3,7 +3,7 @@ mapinfo#
 Arena arrows info=
 
 arrowsinfo, arrowsinfo...
-#
+'#'
 
 Arena drops info
 
@@ -16,6 +16,6 @@ Arena player info
 Players info
 
 playerinf;playerinfo...
-#
+'#'
 
 Info about main players
